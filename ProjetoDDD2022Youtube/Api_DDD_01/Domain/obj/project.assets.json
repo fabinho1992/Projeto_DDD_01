@@ -539,23 +539,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adm\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\Projeto_DDD_Youtube\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Testes\\ProjetoDDD2022Aula\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\Projeto_DDD_Youtube\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-      "outputPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\Projeto_DDD_Youtube\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Testes\\ProjetoDDD2022Aula\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Testes\\ProjetoDDD2022Aula\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -570,8 +570,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\Projeto_DDD_Youtube\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\Etidades.csproj": {
-              "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\Projeto_DDD_Youtube\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\Etidades.csproj"
+            "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Testes\\ProjetoDDD2022Aula\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\Etidades.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Testes\\ProjetoDDD2022Aula\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\Etidades.csproj"
             }
           }
         }
@@ -601,7 +601,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

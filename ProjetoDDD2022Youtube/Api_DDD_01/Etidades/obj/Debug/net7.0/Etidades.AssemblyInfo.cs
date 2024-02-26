@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Etidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c00a476cb00e27247b29bec4dfd0802c2e3948e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6556be6e915bf76ed40f54d2773fc9bf84788307")]
 [assembly: System.Reflection.AssemblyProductAttribute("Etidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Etidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
