@@ -521,23 +521,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\adm\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Testes\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\Etidades.csproj",
+      "projectUniqueName": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\Projeto_DDD_Youtube\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\Etidades.csproj",
       "projectName": "Etidades",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Testes\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\Etidades.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Testes\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\obj\\",
+      "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\Projeto_DDD_Youtube\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\Etidades.csproj",
+      "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
+      "outputPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\Projeto_DDD_Youtube\\Projeto_DDD_01\\ProjetoDDD2022Youtube\\Api_DDD_01\\Etidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -585,7 +585,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
