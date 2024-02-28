@@ -1,0 +1,16 @@
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\bin\Debug\net7.0\Domain.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\bin\Debug\net7.0\Domain.pdb
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\bin\Debug\net7.0\Etidades.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\bin\Debug\net7.0\Etidades.pdb
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\Domain.pdb
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Domain\obj\Debug\net7.0\ref\Domain.dll

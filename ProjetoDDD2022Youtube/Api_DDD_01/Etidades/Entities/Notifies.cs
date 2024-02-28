@@ -17,7 +17,8 @@ namespace Etidades.Entities
         [NotMapped]// PARA QUANDO FIZER O MIGRATION, NÃO SER MAPEADO
         public string NomePropriedade { get; set; }
         [NotMapped]
-        public string Mensagem { get; set; } 
+        public string Mensagem { get; set; }
+        [NotMapped]
         public List<Notifies> Notitycoes { get; set; }
 
         public bool ValidaPripriedadeString(string valor, string nomePropriedade)

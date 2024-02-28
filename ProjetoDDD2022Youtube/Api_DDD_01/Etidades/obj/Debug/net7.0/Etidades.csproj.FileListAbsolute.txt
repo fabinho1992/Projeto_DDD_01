@@ -11,3 +11,16 @@ C:\Users\Usuario\Desktop\Cursos de Programação\Testes\ProjetoDDD2022Aula\Proje
 C:\Users\Usuario\Desktop\Cursos de Programação\Testes\ProjetoDDD2022Aula\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\refint\Etidades.dll
 C:\Users\Usuario\Desktop\Cursos de Programação\Testes\ProjetoDDD2022Aula\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.pdb
 C:\Users\Usuario\Desktop\Cursos de Programação\Testes\ProjetoDDD2022Aula\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\ref\Etidades.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\bin\Debug\net7.0\Etidades.deps.json
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\bin\Debug\net7.0\Etidades.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\bin\Debug\net7.0\Etidades.pdb
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.csproj.AssemblyReference.cache
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.AssemblyInfoInputs.cache
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.AssemblyInfo.cs
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.csproj.CoreCompileInputs.cache
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.sourcelink.json
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\refint\Etidades.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\Etidades.pdb
+C:\AulasAluraBackEnd\CursosApsNetAPI\Projeto_DDD_Youtube\Projeto_DDD_01\ProjetoDDD2022Youtube\Api_DDD_01\Etidades\obj\Debug\net7.0\ref\Etidades.dll

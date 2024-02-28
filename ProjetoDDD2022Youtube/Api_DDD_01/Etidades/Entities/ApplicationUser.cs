@@ -11,7 +11,7 @@ namespace Etidades.Entities
 {
     public class ApplicationUser: IdentityUser
     {
-        public ApplicationUser() : base () { }
+        
 
         [Column("USR_CPF")]
         public string CPF {  get; set; }

@@ -59,7 +59,7 @@ namespace WeBAPIs
 
               ValidIssuer = "Teste.Securiry.Bearer",
               ValidAudience = "Teste.Securiry.Bearer",
-              IssuerSigningKey = JwtSecurityKey.Create("Secret_Key-12345678")
+              IssuerSigningKey = JwtSecurityKey.Create("bsbe3d8t328dh327yr92y123456783867128736213423423")
             };
 
             option.Events = new JwtBearerEvents

@@ -21,8 +21,8 @@ namespace Etidades.Entities
         [Column("MSN_DATA_ALTERAÇÃO")]
         public DateTime DataAlteração { get; set; }
         [ForeignKey("ApplicationUser")]// chave estrangeira na tabela
-        [Column(Order = 1)]// sderá oq vai aparecer primeiro na tabela
-        public int UserId { get; set; }
+        [Column(Order = 1)]// será oq vai aparecer primeiro na tabela
+        public string UserId { get; set; }
         public virtual ApplicationUser ApplicationUser { get; set; }
     }
 }
