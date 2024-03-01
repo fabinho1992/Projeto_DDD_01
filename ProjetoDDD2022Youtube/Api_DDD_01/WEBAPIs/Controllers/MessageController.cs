@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Domain.Interfaces;
+using Domain.Interfaces.InterfaceServices;
 using Etidades.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -14,38 +15,40 @@ namespace WebAPIs.Controllers
     {
         private readonly IMapper _mapper;
         private readonly IMessage _message;
+        private readonly IServiceMessage _service;
 
-        public MessageController(IMessage message, IMapper mapper)
+        public MessageController(IMessage message, IMapper mapper, IServiceMessage service)
         {
             _message = message;
             _mapper = mapper;
+            _service = service;
         }
 
 
         [Authorize]
-        [Produces("/application/json")]
+        [Produces("application/json")]
         [HttpPost("/api/Add")]
         public async Task<List<Notifies>> Add(MessageViewModel message)
         {
             message.UserId = await RetornarIdUsuarioLogado();
             var messageMap = _mapper.Map<Message>(message);
-            await _message.Add(messageMap);
-            return messageMap.Notitycoes;
+            await _service.Adicionar(messageMap);
+            return messageMap.Notitycoes; 
         }
 
 
         [Authorize]
-        [Produces("/application/json")]
+        [Produces("application/json")]
         [HttpPost("/api/Update")]
         public async Task<List<Notifies>> Update(MessageViewModel message)
         {
             var messageMap = _mapper.Map<Message>(message);
-            await _message.Update(messageMap);
+            await _service.Atualizar(messageMap);
             return messageMap.Notitycoes;
         }
 
         [Authorize]
-        [Produces("/application/json")]
+        [Produces("application/json")]
         [HttpPost("/api/Delete")]
         public async Task<List<Notifies>> Delete(MessageViewModel message)
         {
@@ -56,7 +59,7 @@ namespace WebAPIs.Controllers
 
 
         [Authorize]
-        [Produces("/application/json")]
+        [Produces("application/json")]
         [HttpPost("/api/GetById")]
         public async Task<MessageViewModel> GetById(Message message)
         {
@@ -67,13 +70,23 @@ namespace WebAPIs.Controllers
 
 
         [Authorize]
-        [Produces("/application/json")]
+        [Produces("application/json")]
         [HttpPost("/api/List")]
         public async Task<List<MessageViewModel>> List()
         {
             var messages = await _message.GetAll();
             var messagesmap = _mapper.Map<List<MessageViewModel>>(messages);
             return messagesmap;     
+        }
+
+        [Authorize]
+        [Produces("application/json")]
+        [HttpPost("/api/ListAtiva")]
+        public async Task<List<MessageViewModel>> ListarMessageAtivas()
+        {
+            var messages = await _service.ListarMessageAtivas();
+            var messagesmap = _mapper.Map<List<MessageViewModel>>(messages);
+            return messagesmap;
         }
 
 
@@ -86,11 +99,11 @@ namespace WebAPIs.Controllers
         {
             if (User != null)
             {
-                var idUsuario = User.FindFirst("idUsuario");
-                return idUsuario.Value;
+                var idUsuario =  User.FindFirst("idUsuario");
+                return  idUsuario.Value;
             }
 
-            return string.Empty;
+            return  string.Empty;
         }
     }
 }
